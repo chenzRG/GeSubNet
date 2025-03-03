@@ -1,6 +1,10 @@
 # GeSubNet.
 
-This is an official implementation of paper (ICLR 2025 Oral), "GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation". 
+This is an official implementation of paper "GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation". 
+
+## :fire: News
+
+Our work was selected as Oral Presentation at ICLR 2025 Oral!
 
 # Dependencies:
 GeSubNet is built based on PyTorch.
