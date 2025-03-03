@@ -4,7 +4,7 @@ This is an official implementation of paper "GeSubNet: Gene Interaction Inferenc
 
 ## :fire: News
 
-Our work was selected as Oral Presentation at ICLR 2025 Oral!
+Our work was selected as Oral Presentation at ICLR 2025!
 
 # Dependencies:
 GeSubNet is built based on PyTorch.
