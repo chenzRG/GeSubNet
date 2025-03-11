@@ -46,12 +46,6 @@ from mpl_toolkits.mplot3d import Axes3D
 import torch_geometric.transforms as T
 from torch_geometric.data import Data
 
-import torch
-import random
-import tqdm
-import pandas as pd
-import os
-
 import networkx as nx
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_auc_score
