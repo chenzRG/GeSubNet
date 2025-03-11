@@ -1,6 +1,7 @@
 # GeSubNet.
 
 This is an official implementation of paper "GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation". 
+https://arxiv.org/abs/2410.13178
 
 ## :fire: News
 
